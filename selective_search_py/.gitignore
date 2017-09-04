@@ -1,0 +1,11 @@
+__pycache__/
+segment/
+*.py[cod]
+*.so
+*.png
+*.jpg
+*.jpeg
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake

@@ -1,0 +1,14 @@
+*.pyc
+*.npy
+*.jpg
+*.pkl
+
+#don't ignore
+#!test_regns.npy
+#!test_ground_truth.npy
+#!ground_truth.npy
+#!images_regns.npy
+#!class_positives.npy
+#!class_negatives.npy
+#!Classifier/*
+#!Classifier 2/*
