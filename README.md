@@ -27,7 +27,7 @@ Postives and negatives (HoG features) for each class are extracted and stored in
 The training is done using extracted features(after applying pca on them).
 Tuning finds best gamma,C and components(for pca).
 
-4. #### Testing in Detection.ipynb)
-a)Using the test image annotation for boxes, test features are found. Classification report is made.
-b)Using test images, detection boxes are printed to files which are name as comp3_det_className.
-c)Detection files can be used to generate precision recall graps after submission to PASCAL VOC.
+4. #### Testing (in Detection.ipynb)
+* Using the test image annotation for boxes, test features are found. Classification report is made.
+* Using test images, detection boxes are printed to files which are name as comp3_det_className.
+* Detection files can be used to generate precision recall graps after submission to PASCAL VOC.
