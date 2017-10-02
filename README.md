@@ -1,3 +1,6 @@
+This was done as part of my B.Tech. project in Semester 6 under the guidance of [Prof. Rajeev Srivastava] (http://www.iitbhu.ac.in/cse/index.php/people/faculty/35.html).
+
+### Objective
 Find objects in images from any of the 20 [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/) classes!
 
 ### Run
